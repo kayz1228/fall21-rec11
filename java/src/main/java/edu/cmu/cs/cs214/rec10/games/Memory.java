@@ -16,6 +16,7 @@ import java.util.*;
  * @param <T> The type of object on the memory game board; this can be any Java object
  */
 public final class Memory<T> {
+    // change
     private final List<T> board;
     private final int numberOfPlayers;
     private final int[] scores;
